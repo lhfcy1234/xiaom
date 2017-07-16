@@ -92,7 +92,7 @@
 				$_b_index++;
 				$_b_index%=length;
 				fn();
-			},1000);
+			},5000);
 		};
 
 		//banner_nav
